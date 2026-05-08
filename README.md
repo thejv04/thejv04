@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Javier </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+### <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+
+<div><img align="right" alt="GIF" src="" width="300" height="auto" /></div>
+
+txt
 <!--
 **thejv04/thejv04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
