@@ -8,7 +8,7 @@
   
   <p>
     My name is <strong>Javier Ignacio</strong>, a Civil Engineering student specializing in
-    Computer Science at the Catholic University of Temuco.
+    Computer Science at the Universidad Católica de Temuco.
   </p>
 
   <p>
