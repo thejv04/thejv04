@@ -23,15 +23,12 @@
 
 <h2>🧑‍💻 My Workflow</h2>
 
-  <img align="right" alt="GIF" src="https://media.tenor.com/A-Cc_uGZVQEAAAAi/lain-serial-experiments-lain.gif" width="150" height="auto" />
-
 <ul>
   <li>🖥️ OS: Linux Manjaro</li>
   <li>📝 Editor: VSCodium</li>
   <li>📓 Markdown Editor: Obsidian</li>
   <li>🎮 Game Engine: Godot Engine v4</li>
 </ul>
-
 <h2>🛠️ My Skills</h2>
 
 <h3>Programming languages:</h3>
@@ -47,6 +44,7 @@
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> My GitHub Stats:</h2>
+  <img align="left" alt="GIF" src="https://media.tenor.com/A-Cc_uGZVQEAAAAi/lain-serial-experiments-lain.gif" width="150" height="auto" />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejv04&theme=material-palenight" height="250"/>
 </div>
