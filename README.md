@@ -23,6 +23,8 @@
 
 <h2>🧑‍💻 My Workflow</h2>
 
+  <img align="right" alt="GIF" src="https://media.tenor.com/A-Cc_uGZVQEAAAAi/lain-serial-experiments-lain.gif" width="150" height="auto" />
+
 <ul>
   <li>🖥️ OS: Linux Manjaro</li>
   <li>📝 Editor: VSCodium</li>
