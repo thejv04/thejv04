@@ -49,3 +49,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejv04&theme=material-palenight" height="250"/>
 </div>
 
+<h2>🏆 My GitHub Trophies:</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thejv04&theme=onedark" height="250"/>
+</div>
+
