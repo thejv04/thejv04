@@ -44,7 +44,7 @@
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> My GitHub Stats:</h2>
-  <img align="left" alt="GIF" src="https://media.tenor.com/A-Cc_uGZVQEAAAAi/lain-serial-experiments-lain.gif" width="150" height="auto" />
+  <img align="left" alt="GIF" src="https://github.com/thejv04/thejv04/blob/main/resources/lain-serial-experiments-lain-1012029468.gif" width="150" height="auto" />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejv04&theme=material-palenight" height="250"/>
 </div>
